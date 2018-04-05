@@ -1,7 +1,7 @@
 ## Introduction
 
 This is the final project for Udacity's MLND. Analysis done in python IDLE 3.5.3. I attempted to predict SalePrice for the Ames housing dataset. 
-Please refer to the capstone proposal.pdf and capstone report.pdf for the complete project and report details.
+Please refer to the [capstone_proposal.pdf](https://github.com/a35931chi/MLND-Capstone/blob/master/capstone_proposal.pdf) and [capstone_report.pdf](https://github.com/a35931chi/MLND-Capstone/blob/master/capstone_report.pdf) for the complete_project and report details.
 
 
 ## Please refer to:
