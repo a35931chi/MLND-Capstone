@@ -14,7 +14,7 @@ Please refer to the capstone proposal.pdf and capstone report.pdf for the comple
 * [Model Summary](https://github.com/a35931chi/MLND-Capstone/blob/master/Model_Selection.xlsx): Selecting optimized modeling algorithm
 
 ### References:
-'''
+```
 Utility Libraries:
 import numpy as np
 import pandas as pd 
@@ -23,16 +23,16 @@ import seaborn as sns
 import visuals as vs #from one of the MLND project. Was useful in visualizing PCA
 from time import gmtime, strftime, time
 import warnings
-'''
+```
 
 ### Statistical Libraries:
-'''
+```
 from scipy import stats
 from scipy.special import boxcox1p
 from scipy.stats import norm, skew 
-'''
+```
 ### Modeling Libraries:
-'''
+```
 from sklearn.preprocessing import LabelEncoder
 from sklearn.decomposition import PCA
 from sklearn.linear_model import ElasticNet, Lasso
@@ -48,8 +48,8 @@ from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import RobustScaler
 from sklearn.model_selection import KFold, cross_val_score, train_test_split, ShuffleSplit, GridSearchCV
 from sklearn.metrics import mean_squared_error
-'''
+```
 ### Data Gathering Library:
-'''
+```
 from Feature_Engineering import data_wrangle
-'''
+```
