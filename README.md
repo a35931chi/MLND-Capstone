@@ -8,7 +8,7 @@ Please refer to the capstone proposal.pdf and capstone report.pdf for the comple
 * [Project Proposal](https://github.com/a35931chi/MLND-Capstone/blob/master/capstone_proposal.pdf): Detailing project motivation
 * [Project Report](https://github.com/a35931chi/MLND-Capstone/blob/master/capstone_report.pdf): Detailing feature engineering and modeling excercise
 * [Feature Engineering](https://github.com/a35931chi/MLND-Capstone/blob/master/Code/Feature_Engineering.py): Code for feature engineering
-* [Main Model Optimization & Selection](https://github.com/a35931chi/MLND-Capstone/blob/master/Code//Model_Optimization_GridSearchCV.py):  /Code/ Code for model optimization using GridSearchCV
+* [Main Model Optimization & Selection](https://github.com/a35931chi/MLND-Capstone/blob/master/Code//Model_Optimization_GridSearchCV.py): Code for model optimization using GridSearchCV
 * [Visualizations](https://github.com/a35931chi/MLND-Capstone/tree/master/Visualization): Folder contains all visualizations for the project
 * [Data Dictionary](https://github.com/a35931chi/MLND-Capstone/blob/master/Feature_Engineering.xlsx): Data dictionary
 * [Model Summary](https://github.com/a35931chi/MLND-Capstone/blob/master/Model_Selection.xlsx): Selecting optimized modeling algorithm
