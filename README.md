@@ -13,7 +13,7 @@ Please refer to the [capstone_proposal.pdf](https://github.com/a35931chi/MLND-Ca
 * [Data Dictionary](https://github.com/a35931chi/MLND-Capstone/blob/master/Feature_Engineering.xlsx): Data dictionary
 * [Model Summary](https://github.com/a35931chi/MLND-Capstone/blob/master/Model_Selection.xlsx): Selecting optimized modeling algorithm
 
-##References:
+## References:
 ### Utility Libraries:
 ```
 import numpy as np
